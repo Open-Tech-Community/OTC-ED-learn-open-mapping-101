@@ -6,15 +6,11 @@
 - Save & Share a Map
 - Investigate things on the map
 ##### Contributing to the map data in OpenStreetMap
-- Overview and Preparation
-- Data Collection
+- Technical Resources
+- Assessment
 - Sign up for an OpenStreetMap Account
 ##### Making Your First Edits in OpenStreetMap
 - iD Editor Walkthrough
 - Drawing Areas
 - Drawing Roads and Other Lines
 - Drawing Points
-##### Using the Tasking Manager
-- Exploring Projects on the Tasking Manager
-- Finding a Project on the Tasking Manager
-- Mapping a Task on the Tasking Manager
