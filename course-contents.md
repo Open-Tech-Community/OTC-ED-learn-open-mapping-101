@@ -1,4 +1,4 @@
-#### Course Contents
+### Course Contents
 ##### The Basics of OpenStreetMap
 - Use OpenStreetMap to Find a Place
 - Using the Map Controls
